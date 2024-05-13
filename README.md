@@ -29,6 +29,10 @@ Show the example of generated image.
 
 ![OpenGlass](https://github.com/Davinci-Meg/bodePlotter/blob/main/img/Open-loop-bodePlot-example.png)
 
+## Note
+
+I do not take any responsibility for image generation. Please proceed at your own risk.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
