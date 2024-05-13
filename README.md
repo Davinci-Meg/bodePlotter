@@ -26,7 +26,7 @@ To generate the Bode plot, simply run the `bode_plot.py` script. The resulting p
 ## Example
 
 Show the example of generated image.
-<img src=img\Open-loop-bodePlot-example.png>
+![OpenGlass](https://github.com/Davinci-Meg/bodePlotter/img/Open-loop-bodePlot-example.png)
 
 ## License
 
