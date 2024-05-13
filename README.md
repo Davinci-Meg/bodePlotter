@@ -23,6 +23,11 @@ To use this code, follow these steps:
 
 To generate the Bode plot, simply run the `bode_plot.py` script. The resulting plot will be saved as `Open-loop-bodePlot.png`.
 
+## Example
+
+Show the example of generated image.
+<img src=img\Open-loop-bodePlot-example.png>
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
