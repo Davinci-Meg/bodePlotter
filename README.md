@@ -9,11 +9,15 @@ This repository contains code for generating an open-loop Bode plot using Python
 To use this code, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running the following command:
+   ```
+   git clone https://github.com/Davinci-Meg/bodePlotter.git
+   cd bodePlotter
+   ```
+3. Install the required dependencies by running the following command:
     ```
     pip install control matplotlib numpy
     ```
-3. Run the code using a Python interpreter.
+4. Run the code using a Python interpreter.
 
 ## Usage
 
