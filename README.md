@@ -21,7 +21,7 @@ To use this code, follow these steps:
 
 ## Usage
 
-To generate the Bode plot, simply run the `bode_plot.py` script. The resulting plot will be saved as `Open-loop-bodePlot.png`.
+To generate the Bode plot, simply run the `openloop-2ndOrder_bodePlot.py` script. The resulting plot will be saved as `openloop-2ndOrder_bodePlot.png`.
 
 ## Example
 

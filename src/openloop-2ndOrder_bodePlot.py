@@ -36,4 +36,4 @@ ax2.set_ylabel('Phase [deg]')
 fig.tight_layout()
 
 # save as png
-fig.savefig('Open-loop-bodePlot.png')
+fig.savefig('openloop-2ndOrder_bodePlot.png')
