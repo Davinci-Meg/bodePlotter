@@ -1,4 +1,5 @@
-# Bode Plotter (English version is [here](README.md))
+# Bode Plotter
+(English version is [here](README.md))
 
 <img src="https://camo.qiitausercontent.com/eb8e0216005c7badaaa4bf7eb2be4d177990d747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d4632433633432e7376673f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765">
 
