@@ -1,8 +1,8 @@
-# Bode Plotter
+# Bode Plotter (日本語版は[こちら](README-jp.md))
 
 <img src="https://camo.qiitausercontent.com/eb8e0216005c7badaaa4bf7eb2be4d177990d747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d4632433633432e7376673f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765">
 
-This repository contains code for generating an open-loop Bode plot using Python and the control library.
+This repository contains code for generating an open-loop 2nd order Bode plot using Python and the control library.
 
 ## Installation
 
@@ -21,7 +21,7 @@ To use this code, follow these steps:
 
 ## Usage
 
-To generate the Bode plot, simply run the `openloop-2ndOrder_bodePlot.py` script. The resulting plot will be saved as `openloop-2ndOrder_bodePlot.png`.
+To generate the Bode plot, simply run the `src/openloop-2ndOrder_bodePlot.py` script. The resulting plot will be saved as `img/openloop-2ndOrder_bodePlot.png`.
 
 ## Example
 
