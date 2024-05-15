@@ -1,39 +1,38 @@
-# ボードプロッター
+# Bode Plotter (English version is [here](README.md))
 
-ボードプロッターは、信号の周波数応答を視覚化するためのツールです。
+<img src="https://camo.qiitausercontent.com/eb8e0216005c7badaaa4bf7eb2be4d177990d747/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d4632433633432e7376673f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765">
 
-## インストール
+このリポジトリには、Pythonとcontrolライブラリを使用してオープンループの2次ボード線図を生成するコードが含まれています。
 
-以下の手順に従って、ボードプロッターをインストールしてください。
+## Installation
 
-1. 依存関係をインストールします。
+このコードを使用するには、以下の手順に従ってください：
 
-    ```bash
-    npm install
+1. リポジトリをローカルマシンにクローンします。
+   ```
+   git clone https://github.com/Davinci-Meg/bodePlotter.git
+   cd bodePlotter
+   ```
+3. 必要な依存関係をインストールするために、以下のコマンドを実行します：
     ```
-
-2. プロジェクトをビルドします。
-
-    ```bash
-    npm run build
+    pip install control matplotlib numpy
     ```
+4. Python インタプリタを使用してコードを実行します。
 
-3. ボードプロッターを起動します。
+## Usage
 
-    ```bash
-    npm start
-    ```
+ボード線図を生成するには、単に `src/openloop-2ndOrder_bodePlot.py` スクリプトを実行します。生成されたボード線図は `img/openloop-2ndOrder_bodePlot.png` として保存されます。
 
-## 使い方
+## Example
 
-ボードプロッターの使い方については、以下のガイドを参照してください。
+生成された画像の例を表示します。
 
-- [ユーザーガイド](./docs/user-guide-jp.md)
+![OpenGlass](img/Open-loop-bodePlot-example.png)
 
-## 貢献
+## Note
 
-プロジェクトに貢献する方法については、[CONTRIBUTING.md](./CONTRIBUTING-jp.md)を参照してください。
+画像の生成に関しては一切の責任を負いません。自己責任で進めてください。
 
-## ライセンス
+## License
 
-このプロジェクトは [MIT ライセンス](./LICENSE)の下で公開されています。
+このプロジェクトは MIT ライセンスのもとで提供されています。詳細については [LICENSE](LICENSE) ファイルを参照してください。
