@@ -23,6 +23,8 @@
 ## Usage
 
 ボード線図を生成するには、単に `src/openloop-2ndOrder_bodePlot.py` スクリプトを実行します。生成されたボード線図は `img/openloop-2ndOrder_bodePlot.png` として保存されます。
+生成されたデータを知りたい場合は、単に `src/openloop-2ndOrder_bodePlot_savedata.py` スクリプトを実行してください。生成されたプロットは `src/ax1_data.csv` および `src/ax2_data.csv` として保存されます。
+
 
 ## Example
 

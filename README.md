@@ -23,6 +23,7 @@ To use this code, follow these steps:
 ## Usage
 
 To generate the Bode plot, simply run the `src/openloop-2ndOrder_bodePlot.py` script. The resulting plot will be saved as `img/openloop-2ndOrder_bodePlot.png`.
+If yor want to know the data of which is genarated, simply run the `src/openloop-2ndOrder_bodePlot_savedata.py` script. The resulting plot will be saved as `src/ax1_data.csv` and `src/ax2_data.csv`.
 
 ## Example
 
